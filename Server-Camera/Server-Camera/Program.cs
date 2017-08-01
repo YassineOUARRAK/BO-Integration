@@ -11,6 +11,10 @@ namespace Server_Camera
         static void Main(string[] args)
         {
             Console.WriteLine("info");
+            Console.ReadLine();
+            Console.WriteLine("test2");
+            Console.WriteLine("test7");
+            Console.ReadLine();
         }
     }
 }
